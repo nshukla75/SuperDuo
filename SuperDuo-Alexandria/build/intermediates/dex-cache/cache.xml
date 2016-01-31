@@ -16,11 +16,11 @@
         <dex dex="C:\Users\nitus\AndroidStudioProjects\SuperDuo-Alexandria\app\build\intermediates\pre-dexed\debug\core-3.2.0-6dfd27bc02378be959bbb0a9757bd0323e98e3db.jar" />
     </item>
     <item
-        jar="C:\Users\nitus\AndroidStudioProjects\SuperDuo\SuperDuo-Alexandria\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jar="C:\Users\nitus\AndroidStudioProjects\SuperDuo-Alexandria\app\build\intermediates\exploded-aar\com.journeyapps\zxing-android-embedded\3.0.2\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
-        <dex dex="C:\Users\nitus\AndroidStudioProjects\SuperDuo\SuperDuo-Alexandria\app\build\intermediates\pre-dexed\debug\classes-2628a03059ec1a3cb0ef5575477a019928ec4304.jar" />
+        sha1="744a4b394a9a7db8a4c4680836d8544802a9cd64">
+        <dex dex="C:\Users\nitus\AndroidStudioProjects\SuperDuo-Alexandria\app\build\intermediates\pre-dexed\debug\classes-2ac25ce8d089fa79995a89941c7b153f101d3f92.jar" />
     </item>
     <item
         jar="C:\Users\nitus\AndroidStudioProjects\SuperDuo-Alexandria\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
@@ -28,27 +28,6 @@
         revision="22.0.1"
         sha1="5c5699834e9722f1c288fea2de82725d078ba127">
         <dex dex="C:\Users\nitus\AndroidStudioProjects\SuperDuo-Alexandria\app\build\intermediates\pre-dexed\debug\classes-d53d5078d61895cfa3eddadd31bc9eda8b7a40f1.jar" />
-    </item>
-    <item
-        jar="C:\Users\nitus\AndroidStudioProjects\SuperDuo\SuperDuo-Alexandria\app\build\intermediates\exploded-aar\com.journeyapps\zxing-android-embedded\3.0.2\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="744a4b394a9a7db8a4c4680836d8544802a9cd64">
-        <dex dex="C:\Users\nitus\AndroidStudioProjects\SuperDuo\SuperDuo-Alexandria\app\build\intermediates\pre-dexed\debug\classes-d53486a794b22dc7a252c6f0373f8b7e4cceb625.jar" />
-    </item>
-    <item
-        jar="C:\Users\nitus\AndroidStudioProjects\SuperDuo\SuperDuo-Alexandria\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
-        <dex dex="C:\Users\nitus\AndroidStudioProjects\SuperDuo\SuperDuo-Alexandria\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-c3f3a959d83ee5c02a523c67be03cac2de0806a5.jar" />
-    </item>
-    <item
-        jar="C:\Users\nitus\AndroidStudioProjects\SuperDuo-Alexandria\app\build\intermediates\exploded-aar\com.journeyapps\zxing-android-embedded\3.0.2\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="744a4b394a9a7db8a4c4680836d8544802a9cd64">
-        <dex dex="C:\Users\nitus\AndroidStudioProjects\SuperDuo-Alexandria\app\build\intermediates\pre-dexed\debug\classes-2ac25ce8d089fa79995a89941c7b153f101d3f92.jar" />
     </item>
     <item
         jar="C:\Users\nitus\AndroidStudioProjects\SuperDuo-Alexandria\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
@@ -63,13 +42,6 @@
         revision="22.0.1"
         sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
         <dex dex="C:\Users\nitus\AndroidStudioProjects\SuperDuo-Alexandria\app\build\intermediates\pre-dexed\debug\glide-3.6.1-ad47aff9fa62330fab71e32a6a9a11dfe907b7c1.jar" />
-    </item>
-    <item
-        jar="C:\Users\nitus\AndroidStudioProjects\SuperDuo\SuperDuo-Alexandria\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
-        <dex dex="C:\Users\nitus\AndroidStudioProjects\SuperDuo\SuperDuo-Alexandria\app\build\intermediates\pre-dexed\debug\classes-6758e8eb0b0b756511df5fe567e22c385fea8854.jar" />
     </item>
     <item
         jar="C:\Users\nitus\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
