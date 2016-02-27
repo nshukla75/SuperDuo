@@ -17,7 +17,7 @@ Udacity-SuperDuo-Alexandria and Football Scores Android Mobile App - Improved tw
 Extra error cases are found, accounted for, and called out in code comments.
 Strings are all included in the strings.xml file and untranslatable strings have a translatable tag marked to false.
 
-#Execution Instruction
+#Execution Instructions
 Requires: Android Studio v1.5.0+
 
 Dependencies:
